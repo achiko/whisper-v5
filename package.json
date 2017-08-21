@@ -10,8 +10,7 @@
   "license": "ISC",
 
   "devDependencies": {
-    "lerna": "2.0.0-rc.5",
-    "sweb3": "v1.0.1-beta"
+    "lerna": "2.0.0-rc.5"
   }
 
 }
